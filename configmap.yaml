@@ -4,6 +4,6 @@ metadata:
   name: prestashop-config
   namespace: 4k8s
 data:
-  FIRSTNAME: Alexandre
-  LASTNAME: Mauras
+  FIRSTNAME: alexandre
+  LASTNAME: mauras
 
