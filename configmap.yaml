@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: prestashop-config
-  namespace: 4k8s
-data:
-  FIRSTNAME: Alexandre
-  LASTNAME: Mauras
-
